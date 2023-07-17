@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fbeb3b19e8e6f14eb8df3f15b0b52ca, type: 3}
+  m_Name: Batter_Dosa
+  m_EditorClassIdentifier: 
+  input: {fileID: 11400000, guid: 1be4344121dc3114da55ac03a0e28743, type: 2}
+  display: {fileID: 11400000, guid: 5a106a0a00e40374f9c5173e625d1456, type: 2}
+  output: {fileID: 11400000, guid: 57b353c7c88fbd247a2e2ac3e3006b4a, type: 2}
+  fryingTime: 3
